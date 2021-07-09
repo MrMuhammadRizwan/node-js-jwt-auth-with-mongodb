@@ -17,6 +17,10 @@ http://localhost:8080/api/test/admin
 http://localhost:8080/api/auth/signin
 
 
+##Postman Collection
+https://www.getpostman.com/collections/cfb749c93245b46ae652
+
+
 ## Project setup
 ```
 npm install
